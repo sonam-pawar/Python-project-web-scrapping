@@ -1,1 +1,1 @@
-This is my web scrapping priject on cosmetic brand using python
+This is my web scrapping projects on cosmetic brand using python
